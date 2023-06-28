@@ -1,0 +1,23 @@
+html body {
+    background-color: #08001f;
+  }
+  
+  #météo { 
+    color: white;
+    font-size: 500%;
+  }
+  
+  #ville {
+    text-transform: capitalize;
+    color: white;
+ 
+  }
+  
+  #temperature {
+    font-size: 400%;
+    color: white;
+    
+  }
+  
+
+
